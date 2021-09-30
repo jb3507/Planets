@@ -3,3 +3,5 @@ Some random text.
 Added more random text.
  
 Another line
+
+Jake Bartlett new line
